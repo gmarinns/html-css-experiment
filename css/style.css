@@ -1,14 +1,25 @@
 #titulo {
     color: black;
-    background-color: black;
-    margin: 7%;
-}
-
-#foto {
-    height: auto;
-    width: 1000px;
+    background-color: whitesmoke;
+    text-align: center;
+    margin: 4%;
 }
 
 #benef {
-    margin: 7%;
+    margin: 4%;
+    text-align: center;
+}
+
+.texto {
+    font-family: "Times New Roman", Times, serif;
+    margin: 1%;
+}
+
+.foto {
+    height: 400px;
+    width: 1500px;
+}
+
+body {
+    background-color: whitesmoke;
 }
