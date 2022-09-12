@@ -1,10 +1,14 @@
 #titulo {
     color: black;
     background-color: black;
-    margin: 50%;
+    margin: 40%;
 }
 
 #foto {
     height: 500px;
     width: 1000px;
+}
+
+#benef {
+    margin: 7%;
 }
