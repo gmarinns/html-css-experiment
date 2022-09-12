@@ -1,10 +1,10 @@
 #titulo {
-    color: white;
-    background-color: cornflowerblue;
-    margin: 7%;
+    color: black;
+    background-color: black;
+    margin: 50%;
 }
 
 #foto {
     height: 500px;
-    width: 500px;
+    width: 1000px;
 }
